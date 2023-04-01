@@ -1,0 +1,83 @@
+2023-04-01 16:39:55,681 - __main__ - FIM2.py - INFO - File modified: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\b.txt
+2023-04-01 16:40:02,742 - __main__ - FIM2.py - INFO - File modified: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\c.txt
+2023-04-01 16:40:07,791 - __main__ - FIM2.py - INFO - New file created : C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:09,814 - __main__ - FIM2.py - INFO - New file created : C:\Users\ASUS\Desktop\Project\FMI-Python\Files\bac.txt
+2023-04-01 16:40:09,815 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:10,826 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:11,833 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:12,846 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:13,854 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:14,859 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:16,881 - __main__ - FIM2.py - INFO - New file created : C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:16,883 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:17,901 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:18,907 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:19,921 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:20,930 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:20,931 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:21,943 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:21,944 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:22,962 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:22,962 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:23,966 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:23,966 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:24,984 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:24,985 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:25,989 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:25,989 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:26,993 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:26,994 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:27,997 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:27,997 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:29,013 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:29,013 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:30,031 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:30,032 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:31,036 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:31,037 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:32,049 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:32,049 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:33,066 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:33,067 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:34,082 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:34,082 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:35,085 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:35,085 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:36,091 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:36,091 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:37,107 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:37,107 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:38,111 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:38,112 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:39,126 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:39,126 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:40,133 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:40,134 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:41,150 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:41,151 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:42,169 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:42,169 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:43,180 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:43,180 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:44,186 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:44,187 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:45,197 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:45,197 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:46,210 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:46,210 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:47,229 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:47,229 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:48,238 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:48,239 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:49,250 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:49,250 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:50,252 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:50,253 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:51,272 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:51,272 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:52,288 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:52,289 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:53,306 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:53,307 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt
+2023-04-01 16:40:54,310 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 16:40:54,310 - __main__ - FIM2.py - INFO - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\abc.txt

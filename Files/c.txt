@@ -1,0 +1,17 @@
+ hello Social network analysis (SNA) is the study of social structures, relationships, and interactions among individuals, groups, or organizations using network theory and mathematical models. It involves analyzing the patterns of connections and interactions in social networks to understand their structure, properties, and dynamics.
+
+SNA can be used to analyze a wide range of social networks, including online social networks, communication networks, friendship networks, organizational networks, and more. The analysis can be done at different levels, such as individual nodes, sub-groups, or the network as a whole.
+
+SNA uses various measures and methods to analyze social networks, such as:
+
+Degree centrality: the number of direct connections a node has in the network.
+
+Betweenness centrality: the extent to which a node lies on the shortest path between other nodes in the network.
+
+Clustering coefficient: the degree to which the neighbors of a node are also connected to each other.
+
+Network density: the proportion of actual connections to possible connections in the network.
+
+Community detection: the identification of groups of nodes that are more tightly connected to each other than to the rest of the network.
+
+SNA has a wide range of applications, such as identifying key influencers or opinion leaders in a network, detecting community structures, understanding the spread of information or diseases, and more.

@@ -1,0 +1,12 @@
+2023-04-01 18:00:26,544 - __main__ - FMI.py - WARNING - File modified: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\b.txt
+2023-04-01 18:00:48,712 - __main__ - FMI.py - INFO - File created: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:51,757 - __main__ - FMI.py - INFO - File created: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\hello (2).txt
+2023-04-01 18:00:51,757 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:52,768 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:53,779 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:54,782 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:54,782 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\hello (2).txt
+2023-04-01 18:00:55,797 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:55,798 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\hello (2).txt
+2023-04-01 18:00:56,800 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\New Text Document.txt
+2023-04-01 18:00:56,800 - __main__ - FMI.py - CRITICAL - File deleted: C:\Users\ASUS\Desktop\Project\FMI-Python\Files\hello (2).txt
